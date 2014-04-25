@@ -1,0 +1,37 @@
+{
+  "name": "Minibook",
+  "version": "0.0.0",
+  "authors": [
+    "César Oliveira <cesar.o.almeida@gmail.com>",
+    "Matheus Moreira"
+  ],
+  "description": "Trabalho Prático da matéria de Tecnologias Web do curso de Sistemas de Informação da PUC-MG",
+  "keywords": [
+    "minibook",
+    "php",
+    "puc",
+    "si",
+    "sistemas",
+    "informação",
+    "graduação"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "jquery.ui": "*",
+    "bootstrap": "*",
+    "modernizr": "*",
+    "underscore": "*",
+    "fontawesome": "*",
+    "normalize.css": "*",
+    "angular-latest": "*",
+    "angular-ui-bootstrap": "*"
+  }
+}
